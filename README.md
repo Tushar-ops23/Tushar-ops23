@@ -8,7 +8,11 @@
   <a href="https://www.linkedin.com/in/tushar-panchal23/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>div>
+</div>
+
+<div id="badges" align="right">
+  <img src="https://komarev.com/ghpvc/?username=tushar-ops23&style=flat-square&color=green" alt=""/>
+</div>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
