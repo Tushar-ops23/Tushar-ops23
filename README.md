@@ -20,8 +20,12 @@
   <img src="" width="600" height="300"/>
 </div>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/0NVPQZG9zMiqKiuBTo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SteadyStateFinance-cryptocurrency-steady-state-finance-defi-insurance-0NVPQZG9zMiqKiuBTo">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/0NVPQZG9zMiqKiuBTo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="">via GIPHY</a></p>
 
+
+<div align="center">
+  <img src="https://giphy.com/embed/0NVPQZG9zMiqKiuBTo/giphy.gif" width="600" height="300"/>
+</div>
 <!---
 Tushar-ops23/Tushar-ops23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
