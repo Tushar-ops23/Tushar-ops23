@@ -24,3 +24,12 @@
 Tushar-ops23/Tushar-ops23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+---
+
+### :man_technologist: About Me :
+
+👋 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="50"> from India.
+
+
