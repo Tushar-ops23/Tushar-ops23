@@ -30,6 +30,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
 
-👋 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="50"> from India.
+👋 I am a DevOps Engineer <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif?cid=790b76118mm2hghmc9jk2jzvcjms1xy00zy4okedwa3jp311&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"> from India.
 
 
