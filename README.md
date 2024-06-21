@@ -16,12 +16,10 @@
   Hey There 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 <div align="center">
   <img src="" width="600" height="300"/>
 </div>
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/0NVPQZG9zMiqKiuBTo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="">via GIPHY</a></p>
-
 
 <div align="center">
   <img src="https://giphy.com/embed/0NVPQZG9zMiqKiuBTo/giphy.gif" width="600" height="300"/>
