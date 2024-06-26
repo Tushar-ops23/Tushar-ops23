@@ -24,7 +24,7 @@
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Tushar+Panchal;I'm+a+DevOps+Engineer...;" alt="I'm Tushar Panchal - I'm a DevOps Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Tushar....;I'm+a+DevOps+Engineer......;" alt="I'm Tushar Panchal - I'm a DevOps Engineer"/>
 </div>
 
 
