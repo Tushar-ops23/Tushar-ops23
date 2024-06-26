@@ -77,7 +77,7 @@ A resilient architecture designed on Kubernetes for optimal application performa
 
 ---
 
-## 🛠 Skills and Badges
+## 🛠 Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
