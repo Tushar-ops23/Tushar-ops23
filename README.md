@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with extensive hands-on expe
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400" />
 </div>
 
-### [Multi-Application Deployment on AWS EC2](https://github.com/Tushar-ops23/multi-application-deployment)
+### [Multi-Application Deployment on AWS EC2](https://github.com/Tushar-ops23/Heliverse_project.git)
 A scalable deployment of diverse web applications on AWS EC2, ensuring flexible resource scaling and optimal performance.
 
 - **Tech Stack**: AWS EC2, React, Angular, Spring Boot
@@ -57,7 +57,7 @@ A scalable deployment of diverse web applications on AWS EC2, ensuring flexible 
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 </div>
 
-### [Jenkins Pipeline for Java Application Deployment with Kubernetes](https://github.com/Tushar-ops23/java-app-deployment)
+### [Jenkins Pipeline for Java Application Deployment with Kubernetes](https://github.com/Tushar-ops23/Jenkins_Pipeline_Java_Application_Deployment_with_Kubernetes)
 A resilient architecture designed on Kubernetes for optimal application performance with automated CI/CD pipelines.
 
 - **Tech Stack**: Jenkins, Maven, GitHub Actions, ArgoCD, Helm, Docker, Kubernetes
