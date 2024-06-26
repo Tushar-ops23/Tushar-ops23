@@ -23,11 +23,12 @@
   <img src="https://komarev.com/ghpvc/?username=tushar-ops23&style=flat-square&color=green" alt="Profile views"/>
 </div>
 
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Tushar+Panchal;I'm+a+DevOps+Engineer...;" alt="I'm Tushar Panchal - I'm a DevOps Engineer"/>
+</div>
 
 
 ---
-
-# 👋 I'm Tushar Panchal!
 
 [![GitHub followers](https://img.shields.io/github/followers/Tushar-ops23?label=Follow&style=social)](https://github.com/Tushar-ops23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tushar-panchal23/)
