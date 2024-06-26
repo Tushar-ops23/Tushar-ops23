@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">
     Hey There 
-   
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
@@ -44,27 +44,54 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with extensive hands-on expe
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400" />
 </div>
 
-### [Multi-Application Deployment on AWS EC2](https://github.com/Tushar-ops23/Heliverse_project.git)
+### [**Cloud Conductor**](https://github.com/Tushar-ops23/Heliverse_project.git)
 A scalable deployment of diverse web applications on AWS EC2, ensuring flexible resource scaling and optimal performance.
 
-- **Tech Stack**: AWS EC2, React, Angular, Spring Boot
-- **Highlights**:
-  - Scalable Deployment
-  - Enhanced Application Management
-  - Cloud-Based Hosting Expertise
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+#### 🎯 Project Overview
+This project involves setting up a scalable environment on AWS EC2 to host multiple web applications. Each application is deployed in a separate instance with autoscaling groups configured to handle traffic spikes. The deployment leverages AWS services like Elastic Load Balancing, Auto Scaling, and Amazon RDS for a robust and high-availability setup.
+
+#### ⚙️ Technologies Used
+- **AWS EC2**: For creating and managing the server instances.
+- **Elastic Load Balancer (ELB)**: To distribute incoming traffic across multiple targets.
+- **Auto Scaling**: To automatically adjust capacity to maintain steady, predictable performance.
+- **Amazon RDS**: For managing relational databases.
+
+#### 🌟 Key Features
+- **Scalable Deployment**: Automatically scales up and down based on traffic.
+- **Enhanced Application Management**: Each application is isolated and managed independently.
+- **Cloud-Based Hosting Expertise**: Leveraging AWS services for reliable hosting.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" />
 </div>
 
-### [Jenkins Pipeline for Java Application Deployment with Kubernetes](https://github.com/Tushar-ops23/Jenkins_Pipeline_Java_Application_Deployment_with_Kubernetes)
+### [**Pipeline Prodigy**](https://github.com/Tushar-ops23/Jenkins_Pipeline_Java_Application_Deployment_with_Kubernetes)
 A resilient architecture designed on Kubernetes for optimal application performance with automated CI/CD pipelines.
 
-- **Tech Stack**: Jenkins, Maven, GitHub Actions, ArgoCD, Helm, Docker, Kubernetes
-- **Highlights**:
-  - Streamlined Development and Deployment
-  - Automated CI/CD Pipelines
-  - GitOps-Driven Deployments
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-FA5050?style=for-the-badge&logo=argo&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### 🎯 Project Overview
+This project demonstrates a CI/CD pipeline setup using Jenkins to automate the deployment of a Java application on a Kubernetes cluster. The pipeline includes stages for building, testing, and deploying the application. It utilizes Jenkins' integration with Kubernetes for dynamic agent provisioning and deployment orchestration.
+
+#### ⚙️ Technologies Used
+- **Jenkins**: For setting up the CI/CD pipeline.
+- **Maven**: For building and managing Java projects.
+- **GitHub Actions**: For integrating CI/CD workflows.
+- **ArgoCD**: For managing and deploying Kubernetes resources using GitOps.
+- **Helm**: For packaging and deploying applications on Kubernetes.
+- **Docker**: For containerizing the application.
+- **Kubernetes**: For orchestrating container deployment.
+
+#### 🌟 Key Features
+- **Streamlined Development and Deployment**: Automated build, test, and deployment stages.
+- **Automated CI/CD Pipelines**: Jenkins pipeline for continuous integration and delivery.
+- **GitOps-Driven Deployments**: Using ArgoCD to manage Kubernetes deployments via Git repositories.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="400" />
+</div>
 
 ---
 
