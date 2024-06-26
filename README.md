@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
 
-👋 I am a [![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-blue.svg?style=flat-square)](https://www.google.com/search?q=devops+engineer) from India.
+##👋 I am a [![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-blue.svg?style=flat-square)](https://www.google.com/search?q=devops+engineer) .
 
 
 
