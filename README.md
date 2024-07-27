@@ -64,8 +64,11 @@ This project involves setting up a scalable environment on AWS EC2 to host multi
 - **Cloud-Based Hosting Expertise**: Leveraging AWS services for reliable hosting.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
+
+
+
 
 ### [**Pipeline Prodigy**](https://github.com/Tushar-ops23/Jenkins_Pipeline_Java_Application_Deployment_with_Kubernetes)
 A resilient architecture designed on Kubernetes for optimal application performance with automated CI/CD pipelines.
