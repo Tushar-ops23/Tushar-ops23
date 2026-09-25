@@ -11,7 +11,6 @@ Currently at Ksolves India. Before that, BUOPSO, and before that a degree in mec
 | [aws-hub-spoke-terraform](https://github.com/Tushar-ops23/aws-hub-spoke-terraform) | Transit Gateway hub with Network Firewall egress, private EKS, IRSA, GitHub OIDC deploys |
 | [azure-hub-spoke-terraform](https://github.com/Tushar-ops23/azure-hub-spoke-terraform) | Azure Firewall via UDR, private AKS with workload identity, Key Vault over private endpoint |
 | [gcp-hub-spoke-terraform](https://github.com/Tushar-ops23/gcp-hub-spoke-terraform) | Apigee X in front of private GKE spokes, connected only through Private Service Connect |
-| [statuspulse](https://github.com/Tushar-ops23/statuspulse) | Small status page API I run end to end: FastAPI, Postgres, Redis, Caddy, GitHub Actions |
 
 The three hub-and-spoke repos are from-scratch public versions of designs I've built at work.
 
